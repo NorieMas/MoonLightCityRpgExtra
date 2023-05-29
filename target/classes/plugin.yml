@@ -1,0 +1,6 @@
+name: MoonLightCityRpgExtra
+version: '1.0-SNAPSHOT'
+main: com.noriemas.MoonLightCityRpgExtra
+api-version: 1.19
+author: NorieMas, XiaoEmAs, HugeExplosion, Coizvixxy.
+softdepend: [MythicMobs]

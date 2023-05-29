@@ -1,0 +1,14 @@
+##########################################
+#####月光傾城RPG額外功能，擴充插件。#####
+##########################################
+
+#DungeonsExtraRecoveryTimer 世界 world_dungeons 每半秒恢復一點飢餓值，默認啟用功能。
+DungeonsExtraRecoveryTimer: true
+#RpgNoDamageTickListener 連打扣飢餓值機制，默認啟用功能。
+RpgNoDamageTickListener: true
+#AntiNormalFKeyListener 禁用按下F切換副手，默認啟用功能。
+AntiNormalFKeyListener: true
+#EntityDeathListener 怪物死亡掉落殘餘的自定義耐久道具，需要MythicMobs插件，默認啟用功能。
+EntityDeathListener: true
+#KnifeVibrationListener 振刀監聽器，默認關閉功能。（尚未完工）
+KnifeVibrationListener: false
